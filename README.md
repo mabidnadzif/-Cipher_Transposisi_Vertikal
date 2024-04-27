@@ -16,3 +16,5 @@ Beberapa fitur yang tersedia pada program php ini antara lai meliputi
 - Inputan Plaintext Dan Ciphertext dapat dimasukkan secara langsung
 - Support Plaintext dan Ciphertext berupa file dengan format txt.
 - Panjang Password untuk proses enkripsi minimal 4 karakter
+
+![Screenshot github cipher](https://github.com/mabidnadzif/-Cipher_Transposisi_Vertikal/assets/114930064/385db208-2869-44ed-ace6-00be07b7436b)
